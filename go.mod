@@ -2,7 +2,7 @@ module formatcomment
 
 go 1.25.5
 
-require github.com/mpetavy/common v1.10.77
+require github.com/mpetavy/common v1.10.79
 
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
